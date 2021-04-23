@@ -7,7 +7,13 @@
   "scripts": ["importpack.js"],
   "styles": [],
   "packs": [],
-  "languages": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
   "dependencies": [{
     "name": "SoundBoard"
   }],

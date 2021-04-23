@@ -1,0 +1,15 @@
+{
+    "SBCOMMUNITY": {
+        "Rive": {
+            "licenseDescription": "All Sounds",
+            "hideousLaughter":{
+                "title":"Hideous Laughter Pack",
+                "description":"What exactly does the enemy sound like when they're affected by Hideous Laughter? This pack will help with that! Recorded by Rive"
+            },
+            "painCombat": {
+                "title":"Pain & Combat",
+                "description":"A collection of combat sounds, recorded by Rive"
+            }
+        }
+    }
+}
