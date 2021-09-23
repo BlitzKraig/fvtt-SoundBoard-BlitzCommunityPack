@@ -2,7 +2,7 @@
   "name": "SoundBoard-BlitzCommunityPack",
   "title": "SoundBoard Pack - Community",
   "description": "Community Sounds Pack - A sounds pack for SoundBoard by Blitz, open to the community to contribute their audio.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Blitzkraig",
   "scripts": ["importpack.js"],
   "styles": [],
@@ -18,7 +18,7 @@
     "name": "SoundBoard"
   }],
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.8.1",
+  "compatibleCoreVersion": "9.224",
   "url": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzCommunityPack",
   "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard-BlitzCommunityPack/master/module.json",
   "download": "https://github.com/BlitzKraig/fvtt-SoundBoard-BlitzCommunityPack/archive/master.zip"
